@@ -1,1 +1,3 @@
-<?php echo "Hello, Pavitra Jindam!"; ?>
+<?php 
+echo "Hello, Pavitra Jindam!";
+?>
